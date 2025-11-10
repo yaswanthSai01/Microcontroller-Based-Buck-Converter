@@ -62,7 +62,7 @@ The circuit is divided into **four main functional blocks**:
 
 > Include your circuit diagram image here  
 > Example:  
-> ![Schematic Diagram](circuit-diagram.png)
+> ![Schematic Diagram](circuit%20diagram.png)
 
 ---
 
@@ -76,7 +76,7 @@ The circuit is divided into **four main functional blocks**:
   - Buck output voltage (Vout)  
 
 > Example:  
-> ![Simulation Results](output waveforms.png)
+> ![Simulation Results](output%20waveforms.png)
 
 ### ⚙️ Hardware Implementation
 - A prototype was built and tested on a hardware setup.
