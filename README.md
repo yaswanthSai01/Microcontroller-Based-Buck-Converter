@@ -60,8 +60,6 @@ The circuit is divided into **four main functional blocks**:
 
 ## 📐 Schematic
 
-> Include your circuit diagram image here  
-> Example:  
 > ![Schematic Diagram](circuit%20diagram.png)
 
 ---
@@ -74,8 +72,7 @@ The circuit is divided into **four main functional blocks**:
   - PWM signal from the 8051  
   - MOSFET gate voltage (from IR2110)  
   - Buck output voltage (Vout)  
-
-> Example:  
+ 
 > ![Simulation Results](output%20waveforms.png)
 
 ### ⚙️ Hardware Implementation
@@ -83,7 +80,7 @@ The circuit is divided into **four main functional blocks**:
 - Measured results validated the expected buck converter behavior — **Vout increased linearly with duty cycle**.
 - The +15 V regulator and gate driver stages operated stably under varying load conditions.
 
-> Example:  
+
 > ![Hardware Setup](Hardware_Imp.png)
 
 ---
